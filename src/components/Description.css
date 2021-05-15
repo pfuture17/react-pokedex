@@ -1,0 +1,7 @@
+.description {
+    width: 100%;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.4);
+    color: white;
+    border-radius: 10px;
+}
